@@ -16,9 +16,9 @@
 | Quiz 1             |   4%    |           |                |
 | Assignment 2       |  10%    |           |                |
 | Assignment 3       |  12%    |           |                |
-| Test I             |   6%    |           |                |
+| Test I             |   6%    |      56.0 |                |
 | Assignment 4       |  13%    |           |                |
 | Assignment 5       |  14%    |           |                |
 | Test II            |   6%    |           |                |
 | Assignment 6       |  15%    |           |                |
-| **Total**          | **100%**|  **38.57**|   **23.14/60** |
+| **Total**          | **100%**|  **43.80**|   **26.28/60** |
